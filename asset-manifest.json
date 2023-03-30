@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/penthouse-diana/static/css/main.600632ac.css",
-    "main.js": "/penthouse-diana/static/js/main.e91f32de.js",
+    "main.js": "/penthouse-diana/static/js/main.3bf335f4.js",
     "static/js/787.e4155825.chunk.js": "/penthouse-diana/static/js/787.e4155825.chunk.js",
     "static/media/IMG_11.mp4": "/penthouse-diana/static/media/IMG_11.59df03333fac493c6ac4.mp4",
     "static/media/8.jpeg": "/penthouse-diana/static/media/8.6a99497365dfe0e6680a.jpeg",
@@ -15,11 +15,11 @@
     "static/media/Penthouse.Diana.png": "/penthouse-diana/static/media/Penthouse.Diana.ae65e643494710fe9d3c.png",
     "index.html": "/penthouse-diana/index.html",
     "main.600632ac.css.map": "/penthouse-diana/static/css/main.600632ac.css.map",
-    "main.e91f32de.js.map": "/penthouse-diana/static/js/main.e91f32de.js.map",
+    "main.3bf335f4.js.map": "/penthouse-diana/static/js/main.3bf335f4.js.map",
     "787.e4155825.chunk.js.map": "/penthouse-diana/static/js/787.e4155825.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.600632ac.css",
-    "static/js/main.e91f32de.js"
+    "static/js/main.3bf335f4.js"
   ]
 }

@@ -20,7 +20,7 @@ Priser:
 Högsäsong: 1750 Euro/vecka (17 juni - 23 september 2023)
 Mellansäsong: 1250 Euro/vecka (1 april - 17 juni, 23 september - 4 november 2023, jul och nyårs veckan)
 Lågsäsong: 700 Euro/vecka (Övrig tid dvs även sportlovet med skidåkning)
-I Priset ingår el, vatten, sänglinnen och handdukar. Städning tillkommer: ca 90 €.</p>
+I Priset ingår el, vatten, sänglinnen och handdukar. Städning tillkommer: ca 90 Euro.</p>
         </div>
     </>)}
 }
